@@ -74,7 +74,7 @@ except Exception:
 
 # ----------------------------- Configuration -----------------------------
 
-TARGET_GAIN = 0.05          # label = 1 if forward 5-day return >= 5%
+TARGET_GAIN = 0.07          # label = 1 if forward 5-day return >= 5%
 HOLDING_DAYS = 5
 START_DATE = "2018-01-01"
 MIN_TRAIN_YEARS = 2
